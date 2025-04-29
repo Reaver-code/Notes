@@ -1,0 +1,106 @@
+/* Títulos */
+h1 {
+    font-size: 2em;
+    color: #e06c75; /* Color para H1 */
+  }
+  
+  h2 {
+    font-size: 1.75em;
+    color: #c678dd; /* Color para H2 */
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    color: #61afef; /* Color para H3 */
+  }
+  
+  h4 {
+    font-size: 1.25em;
+    color: #56b6c2; /* Color para H4 */
+  }
+  
+  h5 {
+    font-size: 1em;
+    color: #98c379; /* Color para H5 */
+  }
+  
+  h6 {
+    font-size: 0.875em;
+    color: #e5c07b; /* Color para H6 */
+  }
+  
+  /* Bloques de código */
+  code, pre {
+    background-color: #282c34; /* Fondo de bloques de código */
+    color: #abb2bf; /* Texto en bloques de código */
+    border-radius: 5px;
+    padding: 0.5em;
+  }
+  
+  /* Diferenciar comandos en línea */
+  code {
+    color: #d19a66; /* Color para comandos en línea */
+    background-color: rgba(40, 44, 52, 0.5);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+  
+  /* Texto en negrita */
+  strong {
+    color: #e5c07b; /* Color para texto en negrita */
+  }
+  
+  /* Texto en cursiva */
+  em {
+    color: #c678dd; /* Color para texto en cursiva */
+  }
+  
+  /* Enlaces */
+  a {
+    color: #61afef; /* Color para enlaces */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Listas */
+  ul, ol {
+    margin-left: 2em;
+  }
+  
+  li {
+    color: #abb2bf; /* Color para elementos de lista */
+  }
+  
+  /* Tablas */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #3e4451;
+    padding: 0.5em;
+  }
+  
+  th {
+    background-color: #3e4451;
+    color: #abb2bf;
+  }
+  
+  td {
+    background-color: #282c34;
+    color: #abb2bf;
+  }
+  
+  /* Bloques de citas */
+  blockquote {
+    border-left: 4px solid #56b6c2;
+    margin: 0;
+    padding-left: 1em;
+    color: #abb2bf;
+    background-color: #282c34;
+  }
+  
