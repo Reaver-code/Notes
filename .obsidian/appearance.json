@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "JetBrains Mono"
 }
